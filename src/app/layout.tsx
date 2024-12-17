@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "WEB",
+  title: "AVION AN E-COMMERCE-WEBSITE",
   description: "Created by Usman Khan",
 };
 
